@@ -54,5 +54,6 @@
 	<modules>
 		<module>demo-springcloud-invoker</module>
 		<module>demo-springcloud-utils</module>
+		<module>demo-springcloud-eureka</module>
 	</modules>
 </project>
