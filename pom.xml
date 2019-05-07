@@ -51,4 +51,8 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>demo-springcloud-invoker</module>
+		<module>demo-springcloud-utils</module>
+	</modules>
 </project>
